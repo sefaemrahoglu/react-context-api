@@ -1,0 +1,11 @@
+.app {
+  text-align: center;
+  height: 100vh;
+}
+.ligth {
+  background-color: #ffffff;
+}
+.dark {
+  background-color: #2f2f2f;
+  color: #ffffff;
+}
